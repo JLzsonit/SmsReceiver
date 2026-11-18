@@ -1,3 +1,11 @@
+## 📦 下载 APK（可直接安装）
+
+**[点此下载 SmsReceiver-v1.0-debug.apk](https://github.com/JLzsonit/SmsReceiver/releases/download/v1.0/SmsReceiver-v1.0-debug.apk)**（8.9 MB，Android 8.0+，debug 签名）
+
+安装后打开 App → 输入 ntfy 主题名 → 点「订阅」，再按下方说明配置 SmsForwarder 的 Webhook 即可使用。
+
+---
+
 # 短信接收端 App（SmsReceiver · ntfy 版）
 
 配合备用机上的 [SmsForwarder](https://github.com/pppscn/SmsForwarder) 使用，
