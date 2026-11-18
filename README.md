@@ -2,7 +2,6 @@
 
 > 📥 **下载安装（v1.1 全新界面版）**：[点此下载 APK](https://github.com/JLzsonit/SmsReceiver/releases/download/v1.1/SmsReceiver-v1.1-debug.apk) · [查看全部版本](https://github.com/JLzsonit/SmsReceiver/releases)
 
-> 📥 **下载安装（v1.1 全新界面版）**：[点此下载 APK](https://github.com/JLzsonit/SmsReceiver/releases/download/v1.1/SmsReceiver-v1.1-debug.apk) · [查看全部版本](https://github.com/JLzsonit/SmsReceiver/releases)
 
 ## 📦 下载 APK（可直接安装）
 
