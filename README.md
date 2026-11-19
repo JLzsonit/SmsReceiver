@@ -1,6 +1,7 @@
 # 短信接收端 App（SmsReceiver · ntfy 版）
 
-> 📥 **下载安装（v1.3 消息模板自定义版）**：[点此下载 APK](https://github.com/JLzsonit/SmsReceiver/releases/download/v1.3/SmsReceiver-v1.3-debug.apk) · [查看全部版本](https://github.com/JLzsonit/SmsReceiver/releases)
+> 📥 **下载安装（v1.4 占位符按钮 + 固定签名版）**：[点此下载 APK](https://github.com/JLzsonit/SmsReceiver/releases/download/v1.4/SmsReceiver-v1.4-debug.apk) · [查看全部版本](https://github.com/JLzsonit/SmsReceiver/releases)
+
 
 
 
